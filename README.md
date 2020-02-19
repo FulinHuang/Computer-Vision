@@ -1,5 +1,7 @@
 # ECSE-415-Computer-Vision
 
+I LOVE Computer Vision ❤️❤️❤️
+
 ## Image Filtering 
 * Denoising
 * Sobel Edge Detector 
