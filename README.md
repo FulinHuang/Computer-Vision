@@ -32,4 +32,9 @@ I LOVE Computer Vision ❤️❤️❤️
 * Stero Vision 
   * [Epipolar Geometry](https://web.stanford.edu/class/cs231a/course_notes/03-epipolar-geometry.pdf)
 
+## Face Detection and Recognition 
+#Check this: 
+* [PCA and Eigenface](http://www.vision.jhu.edu/teaching/vision08/Handouts/case_study_pca1.pdf)
+* [Nearest Neighbour](https://towardsdatascience.com/k-nn-getting-to-know-your-nearest-neighbors-b60399dc0f32)
+
 
