@@ -36,5 +36,6 @@ I LOVE Computer Vision ❤️❤️❤️
 #Check this: 
 * [PCA and Eigenface](http://www.vision.jhu.edu/teaching/vision08/Handouts/case_study_pca1.pdf)
 * [Nearest Neighbour](https://towardsdatascience.com/k-nn-getting-to-know-your-nearest-neighbors-b60399dc0f32)
+* [KNN](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
 
 
